@@ -2,6 +2,12 @@
 
 > 本地环境需安装 [node](http://nodejs.org/) 和 [git](https://git-scm.com/)
 
+
+
+**这个包已经被弃用，请使用[doly-mobile-template](https://github.com/doly-dev/doly-mobile-template)。**
+
+
+
 基于 [mobx](https://cn.mobx.js.org/) + [react](https://facebook.github.io/react/) + [wonderui](https://github.com/jian263994241/wonderjs/tree/v2) 的脚手架， 适用于移动端、PC端开发
 
 构建工具使用的是 [doly-cli](https://www.npmjs.com/package/doly-cli) 
